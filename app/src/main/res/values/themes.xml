@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.YourVote" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+    </style>
+
+    <style name="Theme.YourVote" parent="Base.Theme.YourVote" />
+</resources>

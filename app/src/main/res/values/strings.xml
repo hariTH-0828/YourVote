@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Your vote</string>
+    <string name="label_voterId">voter ID</string>
+    <string name="submit">submit</string>
+</resources>
